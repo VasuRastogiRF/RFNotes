@@ -17,4 +17,4 @@ First release.
 - Microphone permission is required
 
 
-**IMPORTANT** file:///Users/<username>/Library/Containers/rf.RFNotes/Data/Documents/
+**IMPORTANT** file:///Users/{username}/Library/Containers/rf.RFNotes/Data/Documents/
