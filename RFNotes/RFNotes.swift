@@ -1,6 +1,6 @@
 //
-//  SimpleAudioRecorderApp.swift
-//  SimpleAudioRecorder
+//  RFNotesApp.swift
+//  RFNotes
 //
 //  Created by Vasu Rastogi on 02/02/26.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SimpleAudioRecorderApp: App {
+struct RFNotesApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
